@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="CryptoTest:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="CryptoTest-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="CryptoTest:war exploded" />
+    </root>
+  </artifact>
+</component>
